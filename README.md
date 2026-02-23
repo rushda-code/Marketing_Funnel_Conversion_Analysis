@@ -1,9 +1,4 @@
-# FUTURE_DS_03 – Marketing Funnel & Conversion Performance Analysis
-
----
-
-## Internship Track
-Data Science & Analytics – Future Interns
+# Marketing Funnel & Conversion Performance Analysis
 
 ---
 
